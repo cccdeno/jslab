@@ -3,4 +3,4 @@
 
 ## Demo
 
-[chart.html](demo/chart.html)
+1. [chart.html](https://cccdeno.github.io/jslab/demo/chart.html)
